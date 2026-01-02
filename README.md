@@ -16,3 +16,4 @@ A browser-based space shooter game where the player controls a ship to defeat a 
 4.  Avoid letting enemies reach the bottom!
 
 ## GitHub Repo
+https://raveendiran-g.github.io/simple-snake-game/
