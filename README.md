@@ -41,9 +41,9 @@ The player controls a snake that moves around the screen to collect food. Each t
 
 ---
 
-## 🔗 GitHub Repository URL
 
-👉 **GitHub Repository:**  
+
+👉 **GitHub Deployed Link:**  
 https://raveendiran-g.github.io/simple-snake-game/
 
 ---
