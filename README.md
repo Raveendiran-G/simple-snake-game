@@ -1,19 +1,52 @@
-# [Game Name]
-**Team Members:** G Raveendiran, Abishek, Prem Karthik
+# 🐍 Snake Game
 
-## Description
-A browser-based space shooter game where the player controls a ship to defeat a grid of descending aliens.
+## 🎮 Game Title & Team Members
+**Game Title:** Snake Game  
+**Team Members:**
+- Prem Karthik  
+- Abishek  
+- Ravi  
 
-## Key Features
-* **Dynamic Grid Generation:** Uses nested loops to create enemy waves.
-* **Score Tracking:** Real-time DOM updates.
-* **States:** Start, Play, and Game Over screens.
+---
 
-## How to Play
-1.  Click **Start Game**.
-2.  Use **Left/Right Arrows** to move.
-3.  Press **Spacebar** to shoot.
-4.  Avoid letting enemies reach the bottom!
+## 📝 Game Description & How to Play
 
-## GitHub Repo
+The Snake Game is a classic arcade-style game developed using **HTML, CSS, and JavaScript**.  
+The player controls a snake that moves around the screen to collect food. Each time the snake eats food, it grows longer and the score increases. The game ends if the snake hits the wall or collides with its own body.
+
+### ▶️ How to Play
+- Click the **Start Game** button to begin.
+- Use the **Arrow Keys (↑ ↓ ← →)** to control the snake’s movement.
+- Eat the food to increase your score and snake length.
+- Avoid hitting the walls or the snake’s own body.
+- When the game ends, click **Restart** to play again.
+
+---
+
+## ⭐ Key Features and Concepts Used
+
+### 🔹 Key Features
+- Start Screen, Gameplay Screen, and Game Over Screen
+- Real-time score tracking
+- Restart functionality
+- Smooth snake movement and collision detection
+
+### 🔹 Concepts Used
+- HTML Canvas for game rendering
+- CSS for styling and layout
+- JavaScript for game logic
+- Event handling (keyboard inputs)
+- Loops and conditional statements
+- Git and GitHub for version control
+
+---
+
+## 🔗 GitHub Repository URL
+
+👉 **GitHub Repository:**  
 https://raveendiran-g.github.io/simple-snake-game/
+
+---
+
+## ✅ Conclusion
+This project demonstrates the practical use of web technologies and game logic implementation, providing an interactive and engaging gaming experience.
