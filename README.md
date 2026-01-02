@@ -3,9 +3,9 @@
 ## 🎮 Game Title & Team Members
 **Game Title:** Snake Game  
 **Team Members:**
-- Prem Karthik  
+- G Raveendiran  
 - Abishek  
-- Ravi  
+- Prem Karthik
 
 ---
 
